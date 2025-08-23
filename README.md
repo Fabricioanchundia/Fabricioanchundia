@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="./banner.png.jpg" alt="Banner del perfil" width="800"/>
+  <img src="./banner.png.jpeg" alt="Banner del perfil" width="800"/>
 </p>
 
 # 👋 ¡Hola! Soy **Alex Fabricio Anchundia Mero**  
