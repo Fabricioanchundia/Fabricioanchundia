@@ -51,7 +51,7 @@
 
 ## 🤝 ¡Conectemos!  
 
-- 💼 LinkedIn: [alex-anchundia](https://www.linkedin.com/in/alex-anchundia-978466308/)  
+- 💼 LinkedIn: [Fabricio-anchundia](https://www.linkedin.com/in/fabricio-anchundia-978466308/)  
 - 🐙 GitHub: [@Fabricioanchundia](https://github.com/Fabricioanchundia)  
 
 ---
