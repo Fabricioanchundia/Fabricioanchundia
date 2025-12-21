@@ -3,8 +3,8 @@
   <img src="./banner.png.jpeg" alt="Banner del perfil" width="800"/>
 </p>
 
-# 👋 ¡Hola! Soy **Alex Fabricio Anchundia Mero**  
-**Ingeniero en Software en formación 💻 | Entusiasta de la Ciberseguridad 🔒**
+# 👋 Hola, soy **Alex Fabricio Anchundia Mero**
+**Software Engineer en formación | Backend · Arquitectura · Sistemas Inteligentes**
 
 <p align="center">
   <a href="https://github.com/Fabricioanchundia">
@@ -14,49 +14,117 @@
 
 ---
 
-## 📚 Sobre Mí  
+## 🧠 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Software** en la Universidad Laica Eloy Alfaro (Ecuador)  
-- 🌍 Resido en **Manta, Ecuador**  
-- 🎮 Amante de los videojuegos en PC y de la **optimización de hardware**  
-- ✈️ Apasionado por **viajar y explorar nuevas experiencias**  
-- 🔒 Interesado en **ciberseguridad y desarrollo de software seguro**  
-- 📈 En constante aprendizaje de **tecnologías modernas y buenas prácticas**  
+Soy estudiante de **Ingeniería en Software** en la **Pontificia Universidad Católica del Ecuador – Manabí**, con un enfoque fuerte en **desarrollo backend, diseño de APIs, microservicios y sistemas inteligentes**.
 
----
+Trabajo proyectos académicos y personales con mentalidad profesional, priorizando **arquitectura limpia, escalabilidad y buenas prácticas**.
 
-## 🛠️ Tecnologías y Herramientas  
-
-| **Frontend**                   | **Backend**                        | **Bases de Datos**             | **Otras Herramientas**         |
-|--------------------------------|-------------------------------------|--------------------------------|--------------------------------|
-| React · TypeScript · Redux     | Node.js · Express · Laravel         | PostgreSQL · MySQL · MariaDB   | Git · Docker · Linux           |
-| HTML5 · CSS3 · Bootstrap       | REST · GraphQL · APIs seguras       |                                | VSCode · Armoury Crate         |
-| JavaScript · Python            |                                     |                                |                                |
+- 🎓 Ingeniería en Software – **PUCE Manabí**
+- 📍 Ecuador
+- ⚙️ Enfoque: **Backend · APIs · Arquitectura**
+- 🤖 Interés en **IA aplicada y sistemas inteligentes**
+- 🚀 En constante evolución técnica
 
 ---
 
-## 🌟 Proyectos Destacados  
+## 🛠️ Stack Tecnológico
 
-📌 *(Próximamente incluiré proyectos destacados con enlaces y descripciones breves)*  
+### Backend
+- Node.js · **NestJS** · Express  
+- **C# · .NET 8 · ASP.NET Core**  
+- REST APIs · GraphQL  
+- Arquitectura por capas · DTOs · Clean Architecture  
+
+### Bases de Datos
+- **PostgreSQL**
+- MySQL · MariaDB · SQLite  
+- ORM: **TypeORM · Entity Framework Core**
+
+### Frontend (complementario)
+- React · TypeScript  
+- HTML5 · CSS3 · Bootstrap  
+- Next.js (básico)
+
+### DevOps & Tools
+- Git · GitHub  
+- Docker (básico)  
+- Linux  
+- VS Code · Postman  
+- JWT Authentication  
 
 ---
 
-## 🚀 Mis Objetivos  
+## 🚀 Proyectos Destacados
 
-1. Contribuir en **proyectos de código abierto** con impacto real  
-2. Profundizar en **DevOps y CI/CD seguro**  
-3. Diseñar y desplegar **microservicios robustos y escalables**  
+### ☕ Cafetería Web – Sistema de Gestión
+Plataforma web para la administración de una cafetería, desarrollada con **arquitectura backend estructurada**.
+
+**Características:**
+- Gestión de productos, clientes y pedidos
+- Backend con **Node.js / NestJS**
+- Base de datos **PostgreSQL**
+- CRUDs completos y relaciones entre entidades
+- Pensado para escalar a microservicios
 
 ---
 
-## 🤝 ¡Conectemos!  
+### 🏥 FisioTech Pro – IA aplicada a Fisioterapia
+Sistema inteligente que integra **hardware + software + IA** para análisis de movimientos físicos.
 
-- 💼 LinkedIn: [Fabricio-anchundia](https://www.linkedin.com/in/fabricio-anchundia-978466308/)  
-- 🐙 GitHub: [@Fabricioanchundia](https://github.com/Fabricioanchundia)  
+**Componentes clave:**
+- Sensores de movimiento (acelerómetro / giroscopio)
+- Captura y procesamiento de datos
+- Clasificación de movimientos mediante **Machine Learning**
+- Backend para análisis y almacenamiento
+- Enfoque en **salud, tecnología e innovación**
+
+---
+
+### 🏠 Portoviejo 360 – Plataforma de Microservicios
+Sistema inmobiliario basado en **microservicios desacoplados**, enfocado en disponibilidad y búsqueda inteligente.
+
+**Tecnologías y arquitectura:**
+- API Gateway
+- Microservicios independientes
+- **WebSockets** para actualizaciones en tiempo real
+- PostgreSQL (Supabase)
+- Arquitectura por capas y eventos
+
+---
+
+### 🎓 LearnPro – Plataforma E-Learning
+Proyecto académico con enfoque en **arquitectura de software y documentación técnica**.
+
+**Incluye:**
+- Backend para gestión de cursos y suscripciones
+- Planes mensual y anual
+- Documentación **Arc42**
+- Diseño orientado a escalabilidad
+
+📌 *Los repositorios incluyen código, estructura profesional y documentación.*
+
+---
+
+## 🎯 Objetivos Profesionales
+
+- Construir **backends sólidos y escalables**
+- Especializarme en **arquitectura de software y microservicios**
+- Profundizar en **DevOps y despliegue en la nube**
+- Aplicar **IA a problemas reales**
+
+---
+
+## 🤝 Conectemos
+
+- 💼 LinkedIn  
+  👉 https://www.linkedin.com/in/fabricio-anchundia-978466308/
+
+- 🐙 GitHub  
+  👉 https://github.com/Fabricioanchundia
 
 ---
 
 <p align="center">
-  <em>✨ ¡Gracias por visitar mi perfil! ✨</em>
+  <em>Construyendo sistemas reales con visión de ingeniería.</em>
 </p>
-
