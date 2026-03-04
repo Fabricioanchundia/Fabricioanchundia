@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./BANNER (2).png" width="800
-    ">
+  <img src="https://raw.githubusercontent.com/Fabricioanchundia/Fabricioanchundia/main/BANNER%20(2).png">
 </p>
-
 <h1 align="center">Fabricio Anchundia</h1>
 
 <p align="center">
