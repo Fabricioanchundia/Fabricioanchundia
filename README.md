@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.png.jpeg" width="900"/>
+  <img src="./banner" width="900"/>
 </p>
 
 <h1 align="center">Alex Fabricio Anchundia Mero</h1>
