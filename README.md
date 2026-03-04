@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.PNG" width="750"/>
+  <img src="https://raw.githubusercontent.com/Fabricioanchundia/Fabricioanchundia/main/banner.PNG" width="750"/>
 </p>
+
 <h1 align="center">Fabricio Anchundia</h1>
 
 <p align="center">
@@ -17,7 +18,7 @@ Software Engineer
 
 # 👨‍💻 About Me
 
-I am a **Software Engineering student** at the **Pontificia Universidad Católica del Ecuador – Manabí**, focused on building **scalable backend systems and modern software architectures**.
+I am a **Software Engineering student** at the **Pontificia Universidad Católica del Ecuador – Manabí**, focused on building scalable backend systems and modern software architectures.
 
 I enjoy designing systems with **clean architecture principles, structured APIs, and maintainable backend logic**.
 
@@ -36,33 +37,33 @@ Currently building projects that combine:
 
 ### Backend Development
 
-- Node.js
-- NestJS
-- Express
-- C# / .NET 8
-- ASP.NET Core
-- REST APIs
-- GraphQL
+- Node.js  
+- NestJS  
+- Express  
+- C# / .NET 8  
+- ASP.NET Core  
+- REST APIs  
+- GraphQL  
 
 ### Databases
 
-- PostgreSQL
-- MySQL
-- SQLite
-- MariaDB
+- PostgreSQL  
+- MySQL  
+- MariaDB  
+- SQLite  
 
 ### ORM
 
-- TypeORM
-- Entity Framework Core
+- TypeORM  
+- Entity Framework Core  
 
 ### Tools
 
-- Git
-- GitHub
-- Linux
-- Postman
-- JWT Authentication
+- Git  
+- GitHub  
+- Linux  
+- Postman  
+- JWT Authentication  
 
 ---
 
@@ -72,13 +73,13 @@ Currently building projects that combine:
 
 A backend platform designed using a **microservices architecture**.
 
-Features
+Features:
 
-- API Gateway
-- independent services
-- scalable backend structure
-- PostgreSQL database
-- distributed system design
+- API Gateway  
+- Independent services  
+- Scalable backend structure  
+- PostgreSQL database  
+- Distributed system design  
 
 Focus: **modern backend engineering**
 
@@ -88,12 +89,12 @@ Focus: **modern backend engineering**
 
 A **Google Drive–style enterprise platform** developed during a professional internship.
 
-Capabilities
+Capabilities:
 
-- file management
-- user authentication
-- enterprise dashboard
-- access control
+- File management  
+- User authentication  
+- Enterprise dashboard  
+- Access control  
 
 Focus: **enterprise backend systems**
 
@@ -103,11 +104,11 @@ Focus: **enterprise backend systems**
 
 A project that integrates **hardware sensors and machine learning** to analyze human movement during physiotherapy exercises.
 
-Includes
+Includes:
 
-- motion data acquisition
-- machine learning classification
-- backend data processing
+- Motion data acquisition  
+- Machine learning classification  
+- Backend data processing  
 
 Focus: **AI applied to healthcare technology**
 
@@ -117,12 +118,12 @@ Focus: **AI applied to healthcare technology**
 
 A full backend system designed to manage a cafeteria business.
 
-Includes
+Includes:
 
-- product management
-- order system
-- customer management
-- relational database design
+- Product management  
+- Order system  
+- Customer management  
+- Relational database design  
 
 Focus: **data modeling and backend logic**
 
@@ -134,19 +135,19 @@ My goal is to grow as a **Software Engineer specialized in building scalable sys
 
 Currently improving skills in:
 
-- backend engineering
-- distributed systems
-- software architecture
-- intelligent software solutions
+- backend engineering  
+- distributed systems  
+- software architecture  
+- intelligent software solutions  
 
 ---
 
 # 🤝 Connect With Me
 
-LinkedIn  
+💼 LinkedIn  
 https://www.linkedin.com/in/fabricio-anchundia-978466308/
 
-GitHub  
+🐙 GitHub  
 https://github.com/Fabricioanchundia
 
 ---
