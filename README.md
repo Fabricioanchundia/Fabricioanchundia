@@ -1,17 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fabricioanchundia/Fabricioanchundia/main/banner.PNG" width="750"/>
+  <img src="banner.PNG" width="750">
 </p>
 
 <h1 align="center">Fabricio Anchundia</h1>
 
 <p align="center">
 Software Engineer
-</p>
-
-<p align="center">
-  <a href="https://github.com/Fabricioanchundia">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fabricioanchundia&show_icons=true&theme=tokyonight" />
-  </a>
 </p>
 
 ---
