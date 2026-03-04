@@ -1,17 +1,16 @@
-<!-- Banner -->
 <p align="center">
-  <img src="./banner" width="900"/>
+  <img src="banner.png" width="750"/>
 </p>
 
-<h1 align="center">Alex Fabricio Anchundia Mero</h1>
+<h1 align="center">Fabricio Anchundia</h1>
 
-<h3 align="center">
-Backend Developer • Microservices • APIs • Cloud Systems
-</h3>
+<p align="center">
+Software Engineer
+</p>
 
 <p align="center">
   <a href="https://github.com/Fabricioanchundia">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fabricioanchundia&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Fabricioanchundia&show_icons=true&theme=tokyonight" />
   </a>
 </p>
 
@@ -19,24 +18,24 @@ Backend Developer • Microservices • APIs • Cloud Systems
 
 # 👨‍💻 About Me
 
-Software Engineering student focused on **backend development, scalable APIs and distributed systems**.
+I am a **Software Engineering student** at the **Pontificia Universidad Católica del Ecuador – Manabí**, focused on building **scalable backend systems and modern software architectures**.
 
-I enjoy designing systems with **clean architecture, microservices and production-style backend patterns**.
+I enjoy designing systems with **clean architecture principles, structured APIs, and maintainable backend logic**.
 
 Currently building projects that combine:
 
 - backend engineering
-- cloud architecture
-- intelligent systems
+- distributed systems
+- intelligent software solutions
 
 📍 Ecuador  
 🎓 Software Engineering – PUCE Manabí
 
 ---
 
-# 🧠 Core Skills
+# 🧠 Tech Stack
 
-**Backend Development**
+### Backend Development
 
 - Node.js
 - NestJS
@@ -46,21 +45,22 @@ Currently building projects that combine:
 - REST APIs
 - GraphQL
 
-**Databases**
+### Databases
 
 - PostgreSQL
 - MySQL
 - SQLite
+- MariaDB
 
-**ORM**
+### ORM
 
-- TypeORM  
+- TypeORM
 - Entity Framework Core
 
-**Tools**
+### Tools
 
 - Git
-- Docker (basic)
+- GitHub
 - Linux
 - Postman
 - JWT Authentication
@@ -70,28 +70,29 @@ Currently building projects that combine:
 # 🚀 Key Projects
 
 ## Microservices SaaS Platform
-A backend platform designed using **microservices architecture**.
+
+A backend platform designed using a **microservices architecture**.
 
 Features
 
 - API Gateway
-- Independent services
-- Event communication
+- independent services
+- scalable backend structure
 - PostgreSQL database
-- Scalable architecture
+- distributed system design
 
-Focus: **distributed systems and backend scalability**
+Focus: **modern backend engineering**
 
 ---
 
 ## Enterprise File Management System
 
-A **Google Drive-like system for enterprise environments** developed during a professional internship.
+A **Google Drive–style enterprise platform** developed during a professional internship.
 
 Capabilities
 
-- file storage and management
-- secure authentication
+- file management
+- user authentication
 - enterprise dashboard
 - access control
 
@@ -101,7 +102,7 @@ Focus: **enterprise backend systems**
 
 ## FisioTech Pro – AI for Physiotherapy
 
-A system integrating **hardware sensors and machine learning** to analyze body movement in physiotherapy exercises.
+A project that integrates **hardware sensors and machine learning** to analyze human movement during physiotherapy exercises.
 
 Includes
 
@@ -109,13 +110,13 @@ Includes
 - machine learning classification
 - backend data processing
 
-Focus: **AI + health technology**
+Focus: **AI applied to healthcare technology**
 
 ---
 
 ## Cafeteria Web Platform
 
-A full backend system for managing a cafeteria business.
+A full backend system designed to manage a cafeteria business.
 
 Includes
 
@@ -124,18 +125,20 @@ Includes
 - customer management
 - relational database design
 
-Focus: **backend systems and data modeling**
+Focus: **data modeling and backend logic**
 
 ---
 
 # 🎯 Career Focus
 
-I am currently focused on growing as a **Backend Engineer specialized in:**
+My goal is to grow as a **Software Engineer specialized in building scalable systems and robust backend architectures**.
 
-- Microservices Architecture
-- Scalable APIs
-- Cloud Systems
-- Distributed Applications
+Currently improving skills in:
+
+- backend engineering
+- distributed systems
+- software architecture
+- intelligent software solutions
 
 ---
 
