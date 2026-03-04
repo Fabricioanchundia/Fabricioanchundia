@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.png" width="750"/>
+  <img src="banner.PNG
+    " width="750"/>
 </p>
 
 <h1 align="center">Fabricio Anchundia</h1>
