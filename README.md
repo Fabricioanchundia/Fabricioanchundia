@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fabricioanchundia/Fabricioanchundia/main/banner.PNG" width="100%">
+  <img src="./BANNER (2).png" width="750">
 </p>
 
 <h1 align="center">Fabricio Anchundia</h1>
@@ -7,7 +7,6 @@
 <p align="center">
 Software Engineer
 </p>
-
 ---
 
 # 👨‍💻 About Me
