@@ -6,8 +6,6 @@
 <p align="center">
 Software Engineer
 </p>
----
-
 # 👨‍💻 About Me
 
 I am a **Software Engineering student** at the **Pontificia Universidad Católica del Ecuador – Manabí**, focused on building scalable backend systems and modern software architectures.
