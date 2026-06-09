@@ -8,7 +8,7 @@ Software Engineer
 </p>
 # 👨‍💻 About Me
 
-I am a **Software Engineering student** at the **Pontificia Universidad Católica del Ecuador – Manabí**, focused on building scalable backend systems and modern software architectures.
+I am a **Software Engineering student** at the **Pontificia Universidad Católica del Ecuador **, focused on building scalable backend systems and modern software architectures.
 
 I enjoy designing systems with **clean architecture principles, structured APIs, and maintainable backend logic**.
 
