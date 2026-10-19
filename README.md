@@ -19,7 +19,7 @@ Currently building projects that combine:
 - intelligent software solutions
 
 📍 Ecuador  
-🎓 Software Engineering – PUCE Manabí
+🎓 Software Engineering – PUCE 
 
 ---
 
