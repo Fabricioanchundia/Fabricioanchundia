@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fabricio-anchundia-978466308/"><img src="https://img.shields.io/badge/LinkedIn-Fabricio%20Anchundia-0A66C2?style=for-the-badge"></a>
   <a href="mailto:fabricioanchundia7@gmail.com"><img src="https://img.shields.io/badge/Email-fabricioanchundia7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://fabricioanchundia.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  <a href="https://fabricio-anchundia-3d3ad9.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
 </p>
 
 ---
@@ -143,10 +143,11 @@ A honeypot receives real internet attacks, and an AI agent classifies them and m
 
 ## 🧩 Other Projects
 
-- **[Microservices SaaS Platform](https://github.com/Fabricioanchundia/Microservices-SaaS-Platform)**: API gateway, independent services, PostgreSQL
-- **[Enterprise File Management](https://github.com/Fabricioanchundia/Drive-Para-La-Empresa-Genesis-Manabi-)**: Google Drive–style platform built during my internship
+- **[Enterprise File Management](https://github.com/Fabricioanchundia/Drive-Para-La-Empresa-Genesis-Manabi-)**: Google Drive–style platform with real-time collaborative editing and RBAC, built at Sistemas Informáticos Genesis
+- **[Microservices SaaS Platform](https://github.com/Fabricioanchundia/Microservices-SaaS-Platform)**: API gateway, JWT + RBAC, independent services, PostgreSQL
+- **[RoseAmor](https://github.com/Fabricioanchundia/Roseamor_Proyecto)**: ETL pipeline in Python, star schema and Power BI dashboard
+- **[Cafeteria Web](https://github.com/Fabricioanchundia/CafeteriaWEB)**: full-stack e-commerce with microservices and real-time orders
 - **[FisioTech Pro](https://github.com/Fabricioanchundia/IA-sobre-Analisis-y-diagnostico-de-fisioterapia)**: sensors + machine learning for physiotherapy movement analysis
-- **[Cafeteria Web](https://github.com/Fabricioanchundia/CafeteriaWEB)**: full-stack business management system
 - **[Backend Observability](https://github.com/Fabricioanchundia/PROYECTO-DE-OBSERVABILIDAD-MONITOREO-BACKEND)**: monitoring and observability for a backend service
 
 ---
